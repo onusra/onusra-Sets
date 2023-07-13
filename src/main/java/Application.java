@@ -8,6 +8,8 @@ public class Application {
      *
      * The Lab methods should perform Set operations.
      */
+
+    
     public static void main(String[] args) {
         Lab setLab = new Lab();
         System.out.println("Was the set properly instantiated? this will print '[]' if yes, null if no");
